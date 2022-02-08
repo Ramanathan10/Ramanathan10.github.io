@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Mon, 07 Feb 2022 16:56:45 -0800</lastBuildDate>
+		<lastBuildDate>Mon, 07 Feb 2022 21:05:53 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -23,59 +23,6 @@
 		<itunes:block>Yes</itunes:block>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
-<item>
-			<title><![CDATA[Optimal Research]]></title>
-			<description><![CDATA[View in a browser Optimal Research Is it possible that doing too much research can hurt our investment performance? The great thing about investing in the public markets is transaction costs are virtually zero.]]></description>
-			<link>https://investingcity.org/so/caNsRZSET?languageTag=en</link>
-			<guid isPermaLink="false">4_1212566</guid>
-			<pubDate>Mon, 07 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/6b54c5594cb028c8ad289925f9fa0394.mp3" length="1928349" type="audio/mpeg"/>
-			<content:encoded><![CDATA[View in a browser Optimal Research Is it possible that doing too much research can hurt our investment performance? The great thing about investing in the public markets is transaction costs are virtually zero.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>View in a browser Optimal Research Is it possible that doing too much research can hurt our investment performance? The great thing about investing in the public markets is transaction costs are virtually zero.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:21</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>4</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[How I Got Pwned by My Cloud Costs]]></title>
-			<description><![CDATA[One such talk was How I Pwned My Cloud Costs so it seems apt that today, I write about the exact opposite: how my cloud costs pwned me.]]></description>
-			<link>https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/</link>
-			<guid isPermaLink="false">4_1795891</guid>
-			<pubDate>Sun, 06 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/24/b55e39220be3368ff23fa8c56e653737.mp3" length="3396285" type="audio/mpeg"/>
-			<content:encoded><![CDATA[One such talk was How I Pwned My Cloud Costs so it seems apt that today, I write about the exact opposite: how my cloud costs pwned me.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>One such talk was How I Pwned My Cloud Costs so it seems apt that today, I write about the exact opposite: how my cloud costs pwned me.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:09:26</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>3</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Snyk’s shift left approach to API development]]></title>
-			<description><![CDATA[More on the way Snyk is committed to creating a developer-first and API-first platform. By shifting left in our API development SDLC we bring feedback to our developers.]]></description>
-			<link>https://snyk.io/blog/snyk-api-development-shift-left/</link>
-			<guid isPermaLink="false">4_1907776</guid>
-			<pubDate>Sun, 06 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/06/0b5295310da18aae0ececb841a390a69.mp3" length="2351997" type="audio/mpeg"/>
-			<content:encoded><![CDATA[More on the way Snyk is committed to creating a developer-first and API-first platform. By shifting left in our API development SDLC we bring feedback to our developers.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>More on the way Snyk is committed to creating a developer-first and API-first platform. By shifting left in our API development SDLC we bring feedback to our developers.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:06:32</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>2</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
+
 </channel>
 </rss>
