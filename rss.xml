@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Tue, 08 Feb 2022 05:44:59 -0800</lastBuildDate>
+		<lastBuildDate>Tue, 08 Feb 2022 14:43:48 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -23,6 +23,24 @@
 		<itunes:block>Yes</itunes:block>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
+<item>
+			<title><![CDATA[Digital Advertising in 2022 (Stratechery Article 2-8-2022)]]></title>
+			<description><![CDATA[This makes sense: while advertising as a whole is a zero-sum game, there is a secular shift from not just print but also radio and TV to digital, which is why this basket of digital advertising companies is up.]]></description>
+			<link>https://stratechery.com/2022/digital-advertising-in-2022/</link>
+			<guid isPermaLink="false">4_1922724</guid>
+			<pubDate>Tue, 08 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/08/2d2774aadd5d9549877f43fc8fc9eb4e.mp3" length="8065629" type="audio/mpeg"/>
+			<content:encoded><![CDATA[This makes sense: while advertising as a whole is a zero-sum game, there is a secular shift from not just print but also radio and TV to digital, which is why this basket of digital advertising companies is up.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>This makes sense: while advertising as a whole is a zero-sum game, there is a secular shift from not just print but also radio and TV to digital, which is why this basket of digital advertising companies is up.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:22:24</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 <item>
 			<title><![CDATA[Gaming the Smiling Curve (Stratechery Article 2-1-2022)]]></title>
 			<description><![CDATA[Gaming, to a much greater extent than many other industries, is a zero sum game: time spent playing one title is time not spent playing another one.]]></description>
