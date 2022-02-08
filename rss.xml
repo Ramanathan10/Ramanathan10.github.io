@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Mon, 07 Feb 2022 21:05:53 -0800</lastBuildDate>
+		<lastBuildDate>Mon, 07 Feb 2022 21:28:14 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -23,6 +23,41 @@
 		<itunes:block>Yes</itunes:block>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
-
+<item>
+			<title><![CDATA[Gaming the Smiling Curve (Stratechery Article 2-1-2022)]]></title>
+			<description><![CDATA[Gaming, to a much greater extent than many other industries, is a zero sum game: time spent playing one title is time not spent playing another one.]]></description>
+			<link>https://stratechery.com/2022/gaming-the-smiling-curve/</link>
+			<guid isPermaLink="false">4_1870962</guid>
+			<pubDate>Tue, 08 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/01/52965267c7a77f4c91ede28f2a2f7417.mp3" length="6205869" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Gaming, to a much greater extent than many other industries, is a zero sum game: time spent playing one title is time not spent playing another one.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Gaming, to a much greater extent than many other industries, is a zero sum game: time spent playing one title is time not spent playing another one.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:17:14</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The 2021 Stratechery Year in Review (Stratechery Article 12-20-2021)]]></title>
+			<description><![CDATA[Stratechery Interviews This year’s Stratechery interviews included: Jay Goldberg about chips, Intel, and Apple. Eric Seufert about advertising and Apple versus Facebook (and a follow-up interview about the impact of ATT).]]></description>
+			<link>https://stratechery.com/2021/the-2021-stratechery-year-in-review/</link>
+			<guid isPermaLink="false">4_1328062</guid>
+			<pubDate>Tue, 08 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/20/a4cd47cf28b1dc0291b7d795e9a3ee49.mp3" length="5587245" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Stratechery Interviews This year’s Stratechery interviews included: Jay Goldberg about chips, Intel, and Apple. Eric Seufert about advertising and Apple versus Facebook (and a follow-up interview about the impact of ATT).]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Stratechery Interviews This year’s Stratechery interviews included: Jay Goldberg about chips, Intel, and Apple. Eric Seufert about advertising and Apple versus Facebook (and a follow-up interview about the impact of ATT).</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:31</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 </channel>
 </rss>
