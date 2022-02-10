@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Tue, 08 Feb 2022 14:43:48 -0800</lastBuildDate>
+		<lastBuildDate>Wed, 09 Feb 2022 20:50:29 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -24,21 +24,21 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
 <item>
-			<title><![CDATA[Digital Advertising in 2022 (Stratechery Article 2-8-2022)]]></title>
-			<description><![CDATA[This makes sense: while advertising as a whole is a zero-sum game, there is a secular shift from not just print but also radio and TV to digital, which is why this basket of digital advertising companies is up.]]></description>
-			<link>https://stratechery.com/2022/digital-advertising-in-2022/</link>
-			<guid isPermaLink="false">4_1922724</guid>
-			<pubDate>Tue, 08 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/08/2d2774aadd5d9549877f43fc8fc9eb4e.mp3" length="8065629" type="audio/mpeg"/>
-			<content:encoded><![CDATA[This makes sense: while advertising as a whole is a zero-sum game, there is a secular shift from not just print but also radio and TV to digital, which is why this basket of digital advertising companies is up.]]></content:encoded>
+			<title><![CDATA[Peloton’s CEO Has Had Enough]]></title>
+			<description><![CDATA[Also DWAC, Rumble and NFTs.]]></description>
+			<link>https://www.bloomberg.com/opinion/articles/2022-02-08/peloton-s-ceo-has-had-enough</link>
+			<guid isPermaLink="false">4_1925077</guid>
+			<pubDate>Thu, 10 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/09/012aa54b33bad6387e536839920762c9.mp3" length="474957" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Also DWAC, Rumble and NFTs.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>This makes sense: while advertising as a whole is a zero-sum game, there is a secular shift from not just print but also radio and TV to digital, which is why this basket of digital advertising companies is up.</itunes:summary>
+			<itunes:summary>Also DWAC, Rumble and NFTs.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:22:24</itunes:duration>
+			<itunes:duration>00:01:19</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>3</itunes:episode>
+			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -54,24 +54,6 @@
 			<itunes:summary>Gaming, to a much greater extent than many other industries, is a zero sum game: time spent playing one title is time not spent playing another one.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:17:14</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>2</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[The 2021 Stratechery Year in Review (Stratechery Article 12-20-2021)]]></title>
-			<description><![CDATA[Stratechery Interviews This year’s Stratechery interviews included: Jay Goldberg about chips, Intel, and Apple. Eric Seufert about advertising and Apple versus Facebook (and a follow-up interview about the impact of ATT).]]></description>
-			<link>https://stratechery.com/2021/the-2021-stratechery-year-in-review/</link>
-			<guid isPermaLink="false">4_1328062</guid>
-			<pubDate>Tue, 08 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2021/12/20/a4cd47cf28b1dc0291b7d795e9a3ee49.mp3" length="5587245" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Stratechery Interviews This year’s Stratechery interviews included: Jay Goldberg about chips, Intel, and Apple. Eric Seufert about advertising and Apple versus Facebook (and a follow-up interview about the impact of ATT).]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Stratechery Interviews This year’s Stratechery interviews included: Jay Goldberg about chips, Intel, and Apple. Eric Seufert about advertising and Apple versus Facebook (and a follow-up interview about the impact of ATT).</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:15:31</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
