@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Sun, 20 Feb 2022 15:31:32 -0800</lastBuildDate>
+		<lastBuildDate>Sun, 20 Feb 2022 17:14:40 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -23,6 +23,24 @@
 		<itunes:block>Yes</itunes:block>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
+<item>
+			<title><![CDATA[Containers as a Service(CaaS) Explained]]></title>
+			<description><![CDATA[First, let’s learn more about containers as a service. What are containers as a service? CaaS is a cloud-based service hosted by a third-party provider that helps manage and deploy containerized applications.]]></description>
+			<link>https://snyk.io/learn/caas-container-as-a-service-explained/?utm_campaign=AOM-2022&utm_medium=Social&utm_source=Twitter-Organic&utm_content=caas-container-as-a-service-explained</link>
+			<guid isPermaLink="false">4_2096666</guid>
+			<pubDate>Sun, 20 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/20/2a1ba2de78d3ed3c17f57d2eee1c1a19.mp3" length="3538845" type="audio/mpeg"/>
+			<content:encoded><![CDATA[First, let’s learn more about containers as a service. What are containers as a service? CaaS is a cloud-based service hosted by a third-party provider that helps manage and deploy containerized applications.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>First, let’s learn more about containers as a service. What are containers as a service? CaaS is a cloud-based service hosted by a third-party provider that helps manage and deploy containerized applications.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:50</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 <item>
 			<title><![CDATA[Putting Ideas into Words]]></title>
 			<description><![CDATA[It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.]]></description>
@@ -38,7 +56,7 @@
 			<itunes:duration>00:05:37</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>3</itunes:episode>
+			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
