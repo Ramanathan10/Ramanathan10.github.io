@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Sun, 20 Feb 2022 17:14:40 -0800</lastBuildDate>
+		<lastBuildDate>Sun, 20 Feb 2022 18:00:43 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -28,7 +28,7 @@
 			<description><![CDATA[First, let’s learn more about containers as a service. What are containers as a service? CaaS is a cloud-based service hosted by a third-party provider that helps manage and deploy containerized applications.]]></description>
 			<link>https://snyk.io/learn/caas-container-as-a-service-explained/?utm_campaign=AOM-2022&utm_medium=Social&utm_source=Twitter-Organic&utm_content=caas-container-as-a-service-explained</link>
 			<guid isPermaLink="false">4_2096666</guid>
-			<pubDate>Sun, 20 Feb 2022 12:00:00 -0800</pubDate>
+			<pubDate>Mon, 21 Feb 2022 12:00:00 -0800</pubDate>
 			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/20/2a1ba2de78d3ed3c17f57d2eee1c1a19.mp3" length="3538845" type="audio/mpeg"/>
 			<content:encoded><![CDATA[First, let’s learn more about containers as a service. What are containers as a service? CaaS is a cloud-based service hosted by a third-party provider that helps manage and deploy containerized applications.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
@@ -46,7 +46,7 @@
 			<description><![CDATA[It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.]]></description>
 			<link>http://paulgraham.com/words.html</link>
 			<guid isPermaLink="false">4_2009898</guid>
-			<pubDate>Sun, 13 Feb 2022 12:00:00 -0800</pubDate>
+			<pubDate>Mon, 21 Feb 2022 12:00:00 -0800</pubDate>
 			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/12/32262daf23327fe7e652e5ad301fd56a.mp3" length="2023821" type="audio/mpeg"/>
 			<content:encoded><![CDATA[It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
