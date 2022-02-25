@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Mon, 21 Feb 2022 16:00:20 -0800</lastBuildDate>
+		<lastBuildDate>Fri, 25 Feb 2022 07:33:58 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -23,6 +23,60 @@
 		<itunes:block>Yes</itunes:block>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
+<item>
+			<title><![CDATA[Reflecting on digital transformations vs pull f...]]></title>
+			<description><![CDATA[Reflecting on digital transformations vs pull forward for cloud software over the long weekend - I think we've largely seen 3 different ways cloud software was affected by Covid:
+
+1) Fake TAM creation
+2) One time pull forward
+3) Durable pull forward]]></description>
+			<link>https://twitter.com/i/web/status/1496132246579060739</link>
+			<guid isPermaLink="false">4_2114455</guid>
+			<pubDate>Tue, 22 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/22/f5baf3e75752f0f4ef18b990542b4cdc.mp3" length="1997325" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Reflecting on digital transformations vs pull forward for cloud software over the long weekend - I think we've largely seen 3 different ways cloud software was affected by Covid:
+
+1) Fake TAM creation
+2) One time pull forward
+3) Durable pull forward]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Reflecting on digital transformations vs pull forward for cloud software over the long weekend - I think we've largely seen 3 different ways cloud software was affected by Covid:
+
+1) Fake TAM creation
+2) One time pull forward
+3) Durable pull forward</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:33</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[It’s Sunday evening and I’m two whiskeys deep. ...]]></title>
+			<description><![CDATA[It’s Sunday evening and I’m two whiskeys deep.
+
+A few thoughts and hard truths (on just about everything):]]></description>
+			<link>https://twitter.com/i/web/status/1495536362497482760</link>
+			<guid isPermaLink="false">4_2098008</guid>
+			<pubDate>Tue, 22 Feb 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/21/60dd56c3b8d56dc8a265ad2fe2a66437.mp3" length="1910061" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It’s Sunday evening and I’m two whiskeys deep.
+
+A few thoughts and hard truths (on just about everything):]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It’s Sunday evening and I’m two whiskeys deep.
+
+A few thoughts and hard truths (on just about everything):</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:18</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 <item>
 			<title><![CDATA[Containers as a Service(CaaS) Explained]]></title>
 			<description><![CDATA[First, let’s learn more about containers as a service. What are containers as a service? CaaS is a cloud-based service hosted by a third-party provider that helps manage and deploy containerized applications.]]></description>
