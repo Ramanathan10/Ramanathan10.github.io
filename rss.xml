@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Sun, 06 Mar 2022 08:46:19 -0800</lastBuildDate>
+		<lastBuildDate>Sat, 12 Mar 2022 11:17:17 -0800</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -23,6 +23,24 @@
 		<itunes:block>Yes</itunes:block>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
+<item>
+			<title><![CDATA[Tech and War]]></title>
+			<description><![CDATA[While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.]]></description>
+			<link>https://stratechery.com/2022/tech-and-war/</link>
+			<guid isPermaLink="false">4_2260302</guid>
+			<pubDate>Tue, 08 Mar 2022 12:00:00 -0800</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/07/17acdda3c16bd14679d4657ba37530bc.mp3" length="7402365" type="audio/mpeg"/>
+			<content:encoded><![CDATA[While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:34</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 <item>
 			<title><![CDATA[Brain Food: Active Patience]]></title>
 			<description><![CDATA[Active patience demands action and intention, even while waiting for results. Active patience means not only applying for the promotion but taking your time to build the skills you need to put yourself in the best position to succeed.]]></description>
