@@ -9,7 +9,7 @@
 			<link>https://getmatter.app/OneMorningStar/</link>
 		</image>
 		<generator>MatterPod by Federico Viticci</generator>
-		<lastBuildDate>Sat, 19 Mar 2022 14:38:36 -0700</lastBuildDate>
+		<lastBuildDate>Fri, 15 Apr 2022 22:31:48 -0700</lastBuildDate>
 		<atom:link href="" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
 		<language><![CDATA[en-us]]></language>
@@ -24,21 +24,39 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/29/47F76E3E-F13D-4969-B820-957E4977C950.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
 <item>
-			<title><![CDATA[Inside the plan to fix America’s never-ending cybersecurity failures]]></title>
-			<description><![CDATA[Now some of the US’s top cybersecurity officials—including the White House’s current Cyber director—say the time has come for a stronger government role and regulation in cybersecurity so that fiascos like Colonial don't happen again.]]></description>
-			<link>https://www.technologyreview.com/2022/03/18/1047395/inside-the-plan-to-fix-americas-never-ending-cybersecurity-failures/</link>
-			<guid isPermaLink="false">4_2637676</guid>
-			<pubDate>Sat, 19 Mar 2022 12:00:00 -0700</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/19/adf82daf29fd64b3294b1c59c4dce4cf.mp3" length="4048461" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Now some of the US’s top cybersecurity officials—including the White House’s current Cyber director—say the time has come for a stronger government role and regulation in cybersecurity so that fiascos like Colonial don't happen again.]]></content:encoded>
+			<title><![CDATA[Money Stuff: Elon Musk’s Work on Twitter’s Board Is Done]]></title>
+			<description><![CDATA[The Board and I had many discussions about Elon joining the board, and with Elon directly. We were excited to collaborate and clear about the risks.]]></description>
+			<link>https://www.bloomberg.com/opinion/articles/2022-04-11/elon-musk-s-work-on-twitter-s-board-is-done</link>
+			<guid isPermaLink="false">4_3403060</guid>
+			<pubDate>Sat, 16 Apr 2022 12:00:00 -0700</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/04/11/2ecd0d6c08cc85e8ebc95a9e5f34363c.mp3" length="7912845" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The Board and I had many discussions about Elon joining the board, and with Elon directly. We were excited to collaborate and clear about the risks.]]></content:encoded>
 			<itunes:author>Matter</itunes:author>
 			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Now some of the US’s top cybersecurity officials—including the White House’s current Cyber director—say the time has come for a stronger government role and regulation in cybersecurity so that fiascos like Colonial don't happen again.</itunes:summary>
+			<itunes:summary>The Board and I had many discussions about Elon joining the board, and with Elon directly. We were excited to collaborate and clear about the risks.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:11:15</itunes:duration>
+			<itunes:duration>00:21:59</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>6</itunes:episode>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[An Interview with Nvidia CEO Jensen Huang about Manufacturing Intelligence (Stratechery Interview 3-28-2022)]]></title>
+			<description><![CDATA[The full interview with Huang is below. This interview has been lightly edited for clarity, and is also available as a podcast; to listen in your podcast player sign-up for a Stratechery account and add your personal podcast feed.]]></description>
+			<link>https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-manufacturing-intelligence/</link>
+			<guid isPermaLink="false">4_2842176</guid>
+			<pubDate>Mon, 28 Mar 2022 12:00:00 -0700</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/03/28/52bcbb2937344dfe6689e0c42eba9a3b.mp3" length="15547437" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The full interview with Huang is below. This interview has been lightly edited for clarity, and is also available as a podcast; to listen in your podcast player sign-up for a Stratechery account and add your personal podcast feed.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The full interview with Huang is below. This interview has been lightly edited for clarity, and is also available as a podcast; to listen in your podcast player sign-up for a Stratechery account and add your personal podcast feed.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:43:11</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 <item>
@@ -54,66 +72,6 @@
 			<itunes:summary>While it has been only 11 days since Russia invaded Ukraine, it is already clear that the long-term impact on the tech industry is going to be substantial.</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:20:34</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>5</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Brain Food: Active Patience]]></title>
-			<description><![CDATA[Active patience demands action and intention, even while waiting for results. Active patience means not only applying for the promotion but taking your time to build the skills you need to put yourself in the best position to succeed.]]></description>
-			<link>https://fs.blog/brain-food/february-27-2022/</link>
-			<guid isPermaLink="false">4_2169821</guid>
-			<pubDate>Wed, 02 Mar 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/27/4cdc2abcedc7c8c3f50612e0e9e32620.mp3" length="1469133" type="audio/mpeg"/>
-			<content:encoded><![CDATA[Active patience demands action and intention, even while waiting for results. Active patience means not only applying for the promotion but taking your time to build the skills you need to put yourself in the best position to succeed.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>Active patience demands action and intention, even while waiting for results. Active patience means not only applying for the promotion but taking your time to build the skills you need to put yourself in the best position to succeed.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:04:05</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>4</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[It’s Sunday evening and I’m two whiskeys deep. ...]]></title>
-			<description><![CDATA[It’s Sunday evening and I’m two whiskeys deep.
-
-A few thoughts and hard truths (on just about everything):]]></description>
-			<link>https://twitter.com/i/web/status/1495536362497482760</link>
-			<guid isPermaLink="false">4_2098008</guid>
-			<pubDate>Tue, 22 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/21/60dd56c3b8d56dc8a265ad2fe2a66437.mp3" length="1910061" type="audio/mpeg"/>
-			<content:encoded><![CDATA[It’s Sunday evening and I’m two whiskeys deep.
-
-A few thoughts and hard truths (on just about everything):]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>It’s Sunday evening and I’m two whiskeys deep.
-
-A few thoughts and hard truths (on just about everything):</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:18</itunes:duration>
-			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>3</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-<item>
-			<title><![CDATA[Putting Ideas into Words]]></title>
-			<description><![CDATA[It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.]]></description>
-			<link>http://paulgraham.com/words.html</link>
-			<guid isPermaLink="false">4_2009898</guid>
-			<pubDate>Mon, 21 Feb 2022 12:00:00 -0800</pubDate>
-			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/12/32262daf23327fe7e652e5ad301fd56a.mp3" length="2023821" type="audio/mpeg"/>
-			<content:encoded><![CDATA[It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.]]></content:encoded>
-			<itunes:author>Matter</itunes:author>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary>It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:05:37</itunes:duration>
 			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
